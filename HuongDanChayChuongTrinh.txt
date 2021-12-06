@@ -1,0 +1,6 @@
+B1 : Chạy file TNCNPM.sql trong MicrosoftSQL Server
+B2 : Tại Class DataProvider.java sửa username và password đúng với tài khoản authentication SQL của bạn
+B3 : Và bây giờ bạn có thể chạy chương trình bình thương rồi <3
+
+--Java 1 - Nhóm 7 --
+Trắc Nghiệm môn học Công nghệ phần mềm.
